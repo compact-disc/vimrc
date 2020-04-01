@@ -1,5 +1,5 @@
 color desert	"color settings
-set number		"show line numbers 
+set number	"show line numbers 
 set wildmenu	"loads language specific indentation
 set autoindent	"keeps indent at the same as previous line
 set showcmd	"show command in bottom bar
